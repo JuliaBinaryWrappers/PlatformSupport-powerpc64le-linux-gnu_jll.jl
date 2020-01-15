@@ -1,0 +1,9 @@
+[[PlatformSupport-powerpc64le-linux-gnu]]
+arch = "x86_64"
+git-tree-sha1 = "25740b49a6d55efb1b4d0e40815e0fe99710af3e"
+libc = "musl"
+os = "linux"
+
+    [[PlatformSupport-powerpc64le-linux-gnu.download]]
+    sha256 = "2dcdfdfa8a1e91394371bd922943e2cc46a4d8b52917e717fa1b4f56cfc19146"
+    url = "https://github.com/JuliaBinaryWrappers/PlatformSupport-powerpc64le-linux-gnu_jll.jl/releases/download/PlatformSupport-powerpc64le-linux-gnu-v2020.1.15+0/PlatformSupport-powerpc64le-linux-gnu.v2020.1.15.x86_64-linux-musl.tar.gz"
